@@ -6,7 +6,6 @@ const db = require('./db')
 
 // display data as a table
 require('console.table')
-const db = require('.')
 
 // sql connection
 const connection = mysql.createConnection({
